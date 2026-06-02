@@ -1,0 +1,59 @@
+body{
+    background-color: beige;
+}
+
+#menu_navegacion {
+    font-family: 'Courier New', Courier, monospace;
+    color:  black;
+    font-size: 150%;
+    background-color: rgb(187, 196, 196);
+    border: 2px solid black;
+    border-radius: 10px ;
+    text-align: center;
+    margin: 20px;
+    padding: 21px;
+}
+
+#menu_navegacion a {
+    color: black;
+    font-weight: 600;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 120%;
+    border-left: 10px solid rgb(137, 20, 20);
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    font-size: 250;
+}
+
+.foto{
+    width: 350px;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+}
+.bloque_foto{
+    width: 350px;        /* ancho del bloque */
+    margin: 40px auto;   /* lo centra horizontalmente */
+    text-align: center;  /* centra el texto */
+}
+
+.logo_principal {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+.sobre_nosotros{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px;
+    padding: 10px;
+    border-left: 0cap;
+}
